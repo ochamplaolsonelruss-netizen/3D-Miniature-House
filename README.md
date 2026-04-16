@@ -1,2 +1,2 @@
 # xhs-image-generator
-小红书图片生成器
+3D全息投影微缩小屋
